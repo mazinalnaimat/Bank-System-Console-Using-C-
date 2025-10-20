@@ -2,7 +2,7 @@ This project create using c++ wiht oop and acheive all about optimize code like 
 
 
 <div align="center">
-  <img src="[/blob/main/Preview%20Imgs/1.png](https://github.com/mazinalnaimat/Bank-System-Console-Using-C-/blob/main/Preview%20Imgs/1.png?raw=true)" alt="Watch Connections" width="600"/>
+  <img src="https://raw.githubusercontent.com/mazinalnaimat/Bank-System-Console-Using-C-/refs/heads/main/Preview%20Imgs/1.png" alt="Watch Connections" width="600"/>
   <p>Watch Connections</p>
 </div>
 
