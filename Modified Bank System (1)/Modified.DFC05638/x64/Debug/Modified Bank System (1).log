@@ -1,0 +1,70 @@
+﻿  Modified Bank System (1).cpp
+F:\Learn Programming\11(42,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(60,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(250,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(413,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(442,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(488,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(563,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(568,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(1376,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(1376,44): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(214,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+      F:\Learn Programming\11(21,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+F:\Learn Programming\11(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(427,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(439,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(454,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(199,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+      F:\Learn Programming\11(27,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+F:\Learn Programming\11(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(69,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../../11#OOP%20(Applications)/My%20Solve/Modified%20Versions/Modified%20Bank%20System%20(1)/Modified%20Bank%20System%20(1).cpp')
+  
+F:\Learn Programming\11(55,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+F:\Learn Programming\11(384,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+F:\Learn Programming\11(442,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+F:\Learn Programming\11(358,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Modified Bank System (1).vcxproj -> F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\x64\Debug\Modified Bank System (1).exe

@@ -1,0 +1,28 @@
+﻿  Modified Bank System (1).cpp
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsString.h(42,3): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsString.h(250,3): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsString.h(413,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsString.h(442,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsString.h(488,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsString.h(563,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsString.h(568,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsDate.h(1376,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsDate.h(1376,1): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsBankClient.h(215,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsBankClient.h(21,12): message : see declaration of 'clsBankClient::stTransferLogRecord'
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsBankClient.h(427,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsBankClient.h(439,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsBankClient.h(454,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsUser.h(200,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsUser.h(27,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsTransferScreen.h(69,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsLoginScreen.h(55): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsBankClient.h(384): warning C4715: 'clsBankClient::Save': not all control paths return a value
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsBankClient.h(442): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\clsUser.h(358): warning C4715: 'clsUser::Save': not all control paths return a value
+  Modified Bank System (1).vcxproj -> F:\Learn Programming\11#OOP (Applications)\My Solve\Modified Versions\Modified Bank System (1)\x64\Debug\Modified Bank System (1).exe

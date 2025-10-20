@@ -1,0 +1,3 @@
+delete "Global.h" file and its inlude
+
+Add The Line that was in the "Global.h" to the "clsScreen"
