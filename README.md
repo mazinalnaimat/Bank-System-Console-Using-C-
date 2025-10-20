@@ -1,5 +1,4 @@
-This project create using c++ wiht oop and acheive all about optimize code like clean code, minimal used of memory, make easy to maintanance and scalable and more more things
-
+This project create using c++ wiht oop and achieve all about optimize code like clean code, minimal used of memory, make easy to maintenance and scalable and more more things
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mazinalnaimat/Bank-System-Console-Using-CPP/refs/heads/main/Preview%20Imgs/1.png" alt="Main Screen" width="600"/>
