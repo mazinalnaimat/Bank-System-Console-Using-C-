@@ -2,7 +2,7 @@ This project create using c++ wiht oop and acheive all about optimize code like 
 
 
 <div align="center">
-  <img src="/Bank-System-Console-Using-C-/tree/main/Preview%20Imgs/1.png" alt="Watch Connections" width="600"/>
+  <img src="/blob/main/Preview Imgs/1.png" alt="Watch Connections" width="600"/>
   <p>Watch Connections</p>
 </div>
 
